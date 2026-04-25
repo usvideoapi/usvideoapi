@@ -4,10 +4,13 @@ AI video API for developers, agencies, and AI coding agents.
 
 Build text-to-video and image-to-video workflows for ads, ecommerce, local business marketing, and creative automation.
 
+Built as a developer-first and enterprise-friendly layer above high-quality generation capabilities, including Seedance 2.0-backed workflows.
+
 ## Start Here
 
 - Website: [usvideoapi.com](https://usvideoapi.com)
 - Main repo: [ai-video-api](https://github.com/usvideoapi/ai-video-api)
+- Prompt repo: [awesome-ai-video-api-prompts](https://github.com/usvideoapi/awesome-ai-video-api-prompts)
 - YouTube: [@USVideoApi](https://www.youtube.com/@USVideoApi)
 
 ## What US Video API Covers
@@ -39,5 +42,12 @@ Use the main repo for:
 - OpenAPI and Postman
 - vertical use cases
 - integration and enterprise docs
+
+Use the prompt repo for:
+
+- reusable prompt packs
+- vertical prompt starters
+- channel prompt patterns
+- bookmarkable creative assets
 
 If you want production-ready usage, start with [US Video API](https://usvideoapi.com).
