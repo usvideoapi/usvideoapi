@@ -2,42 +2,42 @@
 
 AI video API for developers, agencies, and AI coding agents.
 
-US Video API helps teams build:
-
-- text-to-video API workflows
-- image-to-video API workflows
-- ad-ready creative generation
-- ecommerce and local business marketing automation
+Build text-to-video and image-to-video workflows for ads, ecommerce, local business marketing, and creative automation.
 
 ## Start Here
 
 - Website: [usvideoapi.com](https://usvideoapi.com)
-- Main GitHub repo: [ai-video-api](https://github.com/usvideoapi/ai-video-api)
+- Main repo: [ai-video-api](https://github.com/usvideoapi/ai-video-api)
 - YouTube: [@USVideoApi](https://www.youtube.com/@USVideoApi)
 
-## What We Focus On
+## What US Video API Covers
 
 - AI video API
-- text to video API
-- image to video API
-- video generation API for apps and agents
-- marketing creative automation
-- performance ad generation
+- text-to-video API
+- image-to-video API
+- ad-ready creative generation
+- marketing and creative automation
+- developer-first integration for apps and agents
 
-## Who This Is For
+## Built For
 
-- developers integrating video generation into products
+- developers
 - AI coding agents such as Codex, Claude Code, and Cursor
-- agencies building ad workflows
-- ecommerce and local business teams automating creative production
+- agencies
+- ecommerce operators
+- local business marketing teams
+- enterprise buyers evaluating integration options
 
-## Public GitHub Direction
+## GitHub Surface
 
-Our public GitHub surface is meant to provide:
+This GitHub account is the public developer and trust surface for US Video API.
 
-- developer-readable examples
-- prompt-ready creative briefs
-- integration scaffolds
-- agent-friendly entrypoints
+Use the main repo for:
+
+- API examples
+- SDKs
+- OpenAPI and Postman
+- vertical use cases
+- integration and enterprise docs
 
 If you want production-ready usage, start with [US Video API](https://usvideoapi.com).
